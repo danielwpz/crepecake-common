@@ -5,7 +5,7 @@ Commonly-used middlewares for crepecake.
 ## Default middlewares
 1. compress: https://github.com/koajs/compress
 2. helmet: https://github.com/venables/koa-helmet
-3. logger: https://github.com/koajs/logger
+3. logger: https://github.com/danielwpz/logger
 4. bodyparser: https://github.com/koajs/bodyparser
 5. cors: https://github.com/koajs/cors
 
