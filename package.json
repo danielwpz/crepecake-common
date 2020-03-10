@@ -1,6 +1,6 @@
 {
   "name": "crepecake-common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Commonly-used middlewares for crepecake",
   "main": "index.js",
   "scripts": {
