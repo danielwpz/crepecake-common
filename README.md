@@ -12,7 +12,7 @@ Commonly-used middlewares for crepecake.
 ## Examples
 
 1. Use default middlewares
-```
+```javascript
 const common = require('crepecake-common');
 const app = new CrepeCake();
 
@@ -20,7 +20,7 @@ app.use(common());
 ```
 
 2. Config default middlewares
-```
+```javascript
 const common = require('crepecake-common');
 const app = new CrepeCake();
 
@@ -31,7 +31,7 @@ app.use(common({
 ```
 
 3. Use custom middlewares
-```
+```javascript
 const common = require('crepecake-common');
 const app = new CrepeCake();
 
