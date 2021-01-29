@@ -18,10 +18,10 @@
   "homepage": "https://github.com/danielwpz/crepecake-common#readme",
   "dependencies": {
     "@danielwpz/koa-logger": "^3.3.0",
-    "@koa/cors": "^2.2.3",
-    "koa-bodyparser": "^4.2.1",
+    "@koa/cors": "^3.1.0",
+    "koa-bodyparser": "^4.3.0",
     "koa-compose": "^4.1.0",
-    "koa-compress": "^3.0.0",
-    "koa-helmet": "^4.0.0"
+    "koa-compress": "^5.0.1",
+    "koa-helmet": "^6.0.0"
   }
 }
